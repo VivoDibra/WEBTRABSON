@@ -9,6 +9,10 @@
     margin-left:0px;
     margin-right:0px;
     float: left;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
 
 .prev{
