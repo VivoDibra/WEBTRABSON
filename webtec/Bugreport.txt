@@ -1,0 +1,4 @@
+mobile: 320-767
+tablet: 768-1023
+bug: 1024-1716
+Desktop: 1717-X
