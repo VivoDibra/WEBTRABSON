@@ -40,7 +40,7 @@
     border-top: 1px solid #000;
     color: #000;
     background-color: #aaa;
-    font-size: 1.7em;
+    font-size: 1.4em;
     padding: 0px;
     margin-top: 150px;
 }
@@ -65,8 +65,8 @@ nav a{
     color: #fff;
     font-size: 1.0em;
     margin-top: 10px;
-    margin-left: 20px;
-    width: 20%;
+    margin-left: 15px;
+    width: 19%;
     float: left;
 }
 }
