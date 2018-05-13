@@ -1,8 +1,0 @@
-Problemas de dimensionamento->
-mobile: 320-767
-tablet: 768-1023
-bug: 1024-1716
-Desktop: 1717-X
-
-Nav a ->
-Desktop: esta ficando mal posicionado pouco antes de ir para a versão tablet
