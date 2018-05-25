@@ -25,10 +25,10 @@
 .acesso a{
     display: block;
     text-decoration: none;
-    border-bottom: 2px solid #000;
-    border-top: 2px solid #000;
-    color: #000;
-    background-color: #5f5;
+    border-bottom: 2px solid #fff;
+    border-top: 2px solid #fff;
+    color: #fff;
+    background-color: #000;
     font-size: 1.7em;
     padding: 0px;
     margin-top: 0px;
@@ -40,7 +40,7 @@
     border-radius: 10px;
     margin-top: 5px;
     margin-left: 0px;
-    background-color: #5f5;
+    background-color: #000;
     float: left;
     border-bottom: 5px solid #000;
     border-top: 5px solid #000;
